@@ -1,7 +1,7 @@
 # pandas-challenge
 
 ## Jupyter Notebook File
-The jupyter notebook contained in this repository in the PyCitySchools folder analyzes data for a school district. This analysis included merging csv files together and generating descriptive statistics at the district and school levels. 
+The jupyter notebook contained in this repository analyzes data for a school district. This analysis included merging csv files together and generating descriptive statistics at the district and school levels. 
 
 
 
